@@ -1,0 +1,17 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  description: MyString
+  coordination_couple: 
+  support_couple: 
+  coordination_young: 
+  support_young: 
+  manager: false
+
+two:
+  description: MyString
+  coordination_couple: 
+  support_couple: 
+  coordination_young: 
+  support_young: 
+  manager: false

@@ -1,0 +1,17 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  type: 
+  name: MyString
+  bith_date: 2020-01-08
+  gender: MyString
+  marital_status: MyString
+  sacrament: one
+
+two:
+  type: 
+  name: MyString
+  bith_date: 2020-01-08
+  gender: MyString
+  marital_status: MyString
+  sacrament: two

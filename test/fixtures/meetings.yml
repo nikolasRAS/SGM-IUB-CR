@@ -1,0 +1,15 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  description: MyString
+  year: MyString
+  period: MyString
+  place: MyString
+  accomplished: false
+
+two:
+  description: MyString
+  year: MyString
+  period: MyString
+  place: MyString
+  accomplished: false

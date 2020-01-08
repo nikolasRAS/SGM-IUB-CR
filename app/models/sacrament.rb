@@ -1,0 +1,2 @@
+class Sacrament < ApplicationRecord
+end
